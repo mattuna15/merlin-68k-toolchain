@@ -1,6 +1,6 @@
 # Toolchain
 
-A working up to date compiler and assembler for newlib and other 68xxx code can be obtained here.
+A working up to date compiler and assembler for newlib and other 68xxx code can also be obtained here.
 
 https://rosco-m68k.com/docs/toolchain-installation
 
