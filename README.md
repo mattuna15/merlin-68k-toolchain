@@ -1,4 +1,9 @@
 # Toolchain
+
+A working up to date compiler and assembler for newlib and other 68xxx code can be obtained here.
+
+https://rosco-m68k.com/docs/toolchain-installation
+
 This folder contains the recipes for installing the complete toolchain from compiling, assembling, disassembling and binary 
 manipulation to ROM flashing. The Makefile offers the following installation options:
 
